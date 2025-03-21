@@ -3,10 +3,22 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:gv="clr-namespace:Microsoft.Msagl.GraphViewerGdi;assembly=Microsoft.Msagl.GraphViewerGdi"
+        Loaded="Window_Loaded"
+        
+        
+        
         xmlns:local="clr-namespace:Grafo"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    
+    <Grid Name="MainGrid">
+        <WindowsFormsHost Name="windowsFormsHost" HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="400">
+            <gv:GViewer x:Name="gViewer">
+                
+            </gv:GViewer>
+        </WindowsFormsHost>
     </Grid>
 </Window>

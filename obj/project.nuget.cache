@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWpqEQqP+Yw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mafia\\source\\repos\\Grafo\\Grafo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mafia\\.nuget\\packages\\microsoft.bcl.hashcode\\6.0.0\\microsoft.bcl.hashcode.6.0.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\microsoft.msagl\\1.1.6\\microsoft.msagl.1.1.6.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\microsoft.msagl.drawing\\1.1.6\\microsoft.msagl.drawing.1.1.6.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\microsoft.msagl.graphviewergdi\\1.1.7\\microsoft.msagl.graphviewergdi.1.1.7.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.collections.immutable\\10.0.0-preview.2.25163.2\\system.collections.immutable.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.formats.nrbf\\10.0.0-preview.2.25163.2\\system.formats.nrbf.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.numerics.vectors\\4.6.0\\system.numerics.vectors.4.6.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.reflection.metadata\\10.0.0-preview.2.25163.2\\system.reflection.metadata.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "C:\\Users\\mafia\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
